@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Food Order</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background: linear-gradient(to right, #ffecd2, #fcb69f); /* Peach gradient background */
+      color: #333;
+    }
+    .menu-item {
+      margin: 8px 0;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px 15px;
+      background-color: #ff7e5f;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #feb47b;
+    }
+  </style>
+</head>
+<body>
+  <h2>Hello! What would you like to order?</h2>
+  <div id="menu">
+    <div class="menu-item"><input type="checkbox" id="item1" data-price="240"> Pizza - ₹240</div>
+    <div class="menu-item"><input type="checkbox" id="item2" data-price="80"> Burger - ₹80</div>
+    <div class="menu-item"><input type="checkbox" id="item3" data-price="90"> French Fries - ₹90</div>
+    <div class="menu-item"><input type="checkbox" id="item4" data-price="150"> Noodles - ₹150</div>
+    <div class="menu-item"><input type="checkbox" id="item5" data-price="100"> Cold Drinks - ₹100</div>
+  </div>
+
+  <button onclick="calculateBill()">Place Order</button>
+  <h3 id="result"></h3>
+
+  <script>
+    function calculateBill() {
+      let total = 0;
+      for (let i = 1; i <= 5; i++) {
+        const item = document.getElementById("item" + i);
+        if (item.checked) {
+          const quantity = prompt("Enter quantity for " + item.nextSibling.textContent.trim() + ":");
+          total += item.dataset.price * parseInt(quantity);
+        }
+      }
+      document.getElementById("result").innerText = "Your total bill is: ₹" + total.toFixed(2);
+    }
+  </script>
+</body>
+</html>
