@@ -48,37 +48,37 @@ This repository is made for all the projects/codes I have made in C language. <b
 
 
 ## What these codes do:
-- <U><B>Airport management system</B></U>: Lets you access the Airport management system where you can do things like add and update flight information, cancel and view flights, register, check-in and view passengers for the flight 
-- <U><B>Area-Perimeter Calculator</U></B>: lets you calculate the area and perimeter for the following shapes- Rectangle, Square, Triangle(Right angled, Equilateral, Isosceles), Parallelogram, Rhombus, Trapezium, Circle. 
-- <U><B>Armstrong number Checker</U></B>: Lets you check whether a number is an Armstrong's number or not. 
-- <U><B>Reverse an Array</U></B>: Lets you reverse an array of elements that you enter.
-- <U><B>Bank management system</U></B>: Lets you do tasks at the bank such as- Check the balance, Deposit and Withdraw money 
-- <U><B>Bus reservation system</U></B>: Lets you access the Bus reservation/Management system as the admin and do tasks such as- adding a buses information, viewing all buses from specific routes, booking and canceling tickets, viewing passengers in a bus. 
-- <U><B>Vowel, consonant, digit, special character Checker</U></B>: Checks whether the element entered is a Vowel, Consonant, Digit or a special Character. 
-- <U><B>Compound Interest Calculator</U></B>: Calculates the Compound Interest with the given input.  
-- <U><B>Decimal to Binary Converter</U></B>: Converts a entered decimal number into its respective binary number.  
-- <U><B>Digital Clock</U></B>: Displays the real time when ran.
-- <U><B>Sum of Digits</U></B>: Displays the sum of the all the digits in the numbered that is entered. 
-- <U><B>Distance Converter</U></B>: Converts the distance from different units into the chosen ones. 
-- <U><B>Even-Odd Checker</U></B>: Checks whether a number is odd or even. 
-- <U><B>Factorial Calculator</U></B>: Calculates the entered numbers factorial. 
-- <U><B>Fibonacci Series</U></B>: Displays the Fibonacci Series upto the entered number of elements. 
-- <U><B>Hospital Bill Management</U></B>: Lets you access the management system of Serenova Care & Healing Institute and allows you to add, update and delete a patients records and generate a patients bill. 
-- <U><B>Leap Year Checker</U></B>: Checks whether the entered year is a leap year or not 
-- <U><B>Lower to Uppercase changer</U></B>: Changes the entered lowercase string/word/sentence into uppercase. 
-- <U><B>Magic Square Matrix</U></B>: Checks whether the entered matrix is a Square matrix or not.
-- <U><B>Number guessing Game</U></B>: A number guessing game where the system tells the user whether the number they guessed is too high or too low from the chosen number. 
-- <U><B>Palindrome Checker</U></B>: Checks whether the entered number is Palindrome. 
-- <U><B>Pattern Printing</U></B>: Lets the user print either an alphabet or a digit or a special character in one of the two patterns- Rectangular or Triangular.
-- <U><B>Phone Bill Calculator</U></B>: Calculates the phone bill depending upon the number of calls entered and the billing system given. 
-- <U><B>Prime Number Checker</U></B>: Checks whether the entered number is Prime or not. 
-- <U><B>Quiz grading system</U></B>: Allots a grade to a student based on the marks they attain in the mentioned number of subjects. 
-- <U><B>Reversing a number</U></B>: Allows the user to reverse an entered number. 
-- <U><B>Rock-Paper-Scissors Game</U></B>: A Rock-Paper-Scissors Game where the user chooses one of the option and the the system tells them whether they won against the system or not. 
-- <U><B>Shopping cart system</U></B>: Allows the user to pick multiple items from the shopping list and makes a total bill of all the items chosen. 
-- <U><B>Symmetric Matrix Checker</U></B>: Checks whether the entered matrix is Symmetric or not. 
-- <U><B>Temperature Converter</U></B>: Converts the entered Temperature from different units into the chosen units. 
-- <U><B>Time Converter</U></B>: Converts the entered Time from different units into the chosen units.
-- <U><B>Trace-Norm of a Matrix</U></B>: Finds the Trace and Norm of the entered matrix. 
+- <ins><B>Airport management system</B></ins>: Lets you access the Airport management system where you can do things like add and update flight information, cancel and view flights, register, check-in and view passengers for the flight 
+- <ins><B>Area-Perimeter Calculator</ins></B>: lets you calculate the area and perimeter for the following shapes- Rectangle, Square, Triangle(Right angled, Equilateral, Isosceles), Parallelogram, Rhombus, Trapezium, Circle. 
+- <ins><B>Armstrong number Checker</ins></B>: Lets you check whether a number is an Armstrong's number or not. 
+- <ins><B>Reverse an Array</ins></B>: Lets you reverse an array of elements that you enter.
+- <ins><B>Bank management system</ins></B>: Lets you do tasks at the bank such as- Check the balance, Deposit and Withdraw money 
+- <ins><B>Bus reservation system</ins></B>: Lets you access the Bus reservation/Management system as the admin and do tasks such as- adding a buses information, viewing all buses from specific routes, booking and canceling tickets, viewing passengers in a bus. 
+- <ins><B>Vowel, consonant, digit, special character Checker</ins></B>: Checks whether the element entered is a Vowel, Consonant, Digit or a special Character. 
+- <ins><B>Compound Interest Calculator</ins></B>: Calculates the Compound Interest with the given input.  
+- <ins><B>Decimal to Binary Converter</ins></B>: Converts a entered decimal number into its respective binary number.  
+- <ins><B>Digital Clock</ins></B>: Displays the real time when ran.
+- <ins><B>Sum of Digits</ins></B>: Displays the sum of the all the digits in the numbered that is entered. 
+- <ins><B>Distance Converter</ins></B>: Converts the distance from different units into the chosen ones. 
+- <ins><B>Even-Odd Checker</ins></B>: Checks whether a number is odd or even. 
+- <ins><B>Factorial Calculator</ins></B>: Calculates the entered numbers factorial. 
+- <ins><B>Fibonacci Series</ins></B>: Displays the Fibonacci Series upto the entered number of elements. 
+- <ins><B>Hospital Bill Management</ins></B>: Lets you access the management system of Serenova Care & Healing Institute and allows you to add, update and delete a patients records and generate a patients bill. 
+- <ins><B>Leap Year Checker</ins></B>: Checks whether the entered year is a leap year or not 
+- <ins><B>Lower to Uppercase changer</ins></B>: Changes the entered lowercase string/word/sentence into uppercase. 
+- <ins><B>Magic Square Matrix</ins></B>: Checks whether the entered matrix is a Square matrix or not.
+- <ins><B>Number guessing Game</ins></B>: A number guessing game where the system tells the user whether the number they guessed is too high or too low from the chosen number. 
+- <ins><B>Palindrome Checker</ins></B>: Checks whether the entered number is Palindrome. 
+- <ins><B>Pattern Printing</ins></B>: Lets the user print either an alphabet or a digit or a special character in one of the two patterns- Rectangular or Triangular.
+- <ins><B>Phone Bill Calculator</ins></B>: Calculates the phone bill depending upon the number of calls entered and the billing system given. 
+- <ins><B>Prime Number Checker</ins></B>: Checks whether the entered number is Prime or not. 
+- <ins><B>Quiz grading system</ins></B>: Allots a grade to a student based on the marks they attain in the mentioned number of subjects. 
+- <ins><B>Reversing a number</ins></B>: Allows the user to reverse an entered number. 
+- <ins><B>Rock-Paper-Scissors Game</ins></B>: A Rock-Paper-Scissors Game where the user chooses one of the option and the the system tells them whether they won against the system or not. 
+- <ins><B>Shopping cart system</ins></B>: Allows the user to pick multiple items from the shopping list and makes a total bill of all the items chosen. 
+- <ins><B>Symmetric Matrix Checker</ins></B>: Checks whether the entered matrix is Symmetric or not. 
+- <ins><B>Temperature Converter</ins></B>: Converts the entered Temperature from different units into the chosen units. 
+- <ins><B>Time Converter</ins></B>: Converts the entered Time from different units into the chosen units.
+- <ins><B>Trace-Norm of a Matrix</ins></B>: Finds the Trace and Norm of the entered matrix. 
 
 
